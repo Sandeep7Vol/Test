@@ -8,3 +8,5 @@ The output is provided in the archieve "Build_Output.txt"
 
 2, Also I have provided a different package "com.ncr.chess.future" which is for future implementation where i have provided the Low level design
 of classes and implementation is not yet supported for this release now.
+
+## Code is part of zip folder Interview-exercise.zip
